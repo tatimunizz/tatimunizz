@@ -1,9 +1,9 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Tati Muniz</h1>
 <h3 align="center">An artistic soul finding its way in IT</h3>
 
-- 🔭 I’m currently working at [Smarkio Brazil](https://www.smarkio.com.br/) as a Chatbot Journey Apprentice.
+- 🔭 I’m currently working at [Smarkio Brazil](https://www.smarkio.com.br/) as an IT Analyst Jr.
 
-- 🌱 I am currently learning **NodeJS** and **C**.
+- 🌱 I am currently learning **NodeJS**.
 
 - 🕹️ I am interested in game development as a hobby. 
 
